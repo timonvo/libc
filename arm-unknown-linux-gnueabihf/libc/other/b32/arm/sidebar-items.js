@@ -1,0 +1,1 @@
+initSidebarItems({"constant":[["O_DIRECT",""],["O_DIRECTORY",""],["O_NOFOLLOW",""]],"type":[["c_char",""],["wchar_t",""]]});
